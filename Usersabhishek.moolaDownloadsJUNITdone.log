@@ -1,0 +1,8 @@
+18:03:2022 03:20:02 801 DEBUG ---[main] com.acs.loggapp.Employee.main(Employee.java:55) =from debug 
+18:03:2022 03:20:02 806 INFO ---[main] com.acs.loggapp.Employee.main(Employee.java:56) =from info 
+18:03:2022 03:20:02 806 ERROR ---[main] com.acs.loggapp.Employee.main(Employee.java:57) =from error 
+18:03:2022 03:20:02 806 WARN ---[main] com.acs.loggapp.Employee.main(Employee.java:58) =from warn 
+18:03:2022 03:29:20 714 DEBUG ---[main] com.acs.loggapp.Employee.main(Employee.java:55) =from debug 
+18:03:2022 03:29:20 717 INFO ---[main] com.acs.loggapp.Employee.main(Employee.java:56) =from info 
+18:03:2022 03:29:20 721 ERROR ---[main] com.acs.loggapp.Employee.main(Employee.java:57) =from error 
+18:03:2022 03:29:20 721 WARN ---[main] com.acs.loggapp.Employee.main(Employee.java:58) =from warn 
